@@ -34,9 +34,10 @@ Successfully classifies ASD vs Non-ASD
 Displays:
 ✅ Green → Non-Autistic
 ❌ Red → Autistic
-Provides fast and reliable predictions.![WhatsApp Image 2026-03-26 at 6 09 55 PM](https://github.com/user-attachments/assets/9854b5f2-157f-4165-9f08-de5b54a41dda)
-![UPLOAD](https://github.com/user-attachments/assets/e3974eb5-743d-473c-8930-e1e13971b7f1)
-![NON AUTISTIC](https://github.com/user-attachments/assets/c1fe43c0-4e3f-4e00-b6e9-34306e3562c2)
+Provides fast and reliable predictions.![NON AUTISTIC](https://github.com/user-attachments/assets/4d5381ba-c557-4e4d-960c-18af454e18ca)
+![WhatsApp Image 2026-03-26 at 6 09 55 PM](https://github.com/user-attachments/assets/7a712e15-5aa6-42c6-8f5c-4bde66424323)
+![UPLOAD](https://github.com/user-attachments/assets/17fb42ac-1e60-45f1-b62b-6fe489e027e4)
+
 
 
 
